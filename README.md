@@ -1,2 +1,3 @@
-# tyleransom.github.io
-Repository for Tyler Ransom's academic research website.
+# no8Machine.github.io
+Repository for Max's academic research website.
+Template from Tyler Ransom
